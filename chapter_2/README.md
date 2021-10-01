@@ -20,5 +20,10 @@
             <td>O(n)</td>
             <td>O(1)</td>
         </tr>
+        <tr>
+            <td>Удаление</td>
+            <td>O(n)</td>
+            <td>O(1)</td>
+        </tr>
     </tbod>
 </table>
